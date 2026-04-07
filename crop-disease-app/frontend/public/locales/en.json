@@ -1,0 +1,197 @@
+{
+    "navbar": {
+        "dashboard": "Dashboard",
+        "detect": "Detect",
+        "reports": "Reports",
+        "schemes": "Schemes",
+        "logout": "Logout",
+        "login": "Login",
+        "public": {
+            "home": "Home",
+            "features": "Features",
+            "about": "About"
+        }
+    },
+    "landing": {
+        "hero": {
+            "tagline": "AI-Powered Agriculture",
+            "title": {
+                "part1": "Protect your crops with",
+                "part2": "AI Precision"
+            },
+            "description": "Detect diseases early, get treatment recommendations, and maximize your yield with our smart crop disease detection system. Built for modern farmers.",
+            "cta": {
+                "getStarted": "Get Started",
+                "dashboard": "Go to Dashboard",
+                "learnMore": "Learn More"
+            }
+        },
+        "features": {
+            "title": "Instant Disease Detection",
+            "description": "Upload a photo of your crop leaf and get instant results with high accuracy using our advanced AI models trained on thousands of crop diseases.",
+            "treatment": {
+                "title": "Treatment Recommendations",
+                "description": "Get actionable advice and treatment steps for detected diseases to save your crops immediately. Our recommendations are based on agricultural best practices."
+            },
+            "history": {
+                "title": "Detection History & Analytics",
+                "description": "Keep track of all your past scans and monitor the health trends of your farm over time with detailed charts and insights."
+            },
+            "schemes": {
+                "title": "Government Schemes",
+                "description": "Access the latest government schemes and subsidies available for farmers in your region. Stay updated with new programs and benefits."
+            },
+            "upload": {
+                "title": "Easy Image Upload",
+                "description": "Simple and intuitive interface to capture or upload crop images. Works seamlessly on mobile devices for on-field detection."
+            }
+        },
+        "about": {
+            "empowering": "Empowering Farmers",
+            "mission": "Our Mission",
+            "description1": "At PlantGuard, we're committed to revolutionizing agriculture through technology. Our mission is to provide farmers with accessible, accurate, and actionable insights to protect their crops from diseases.",
+            "description2": "By leveraging advanced artificial intelligence and machine learning, we help farmers detect crop diseases early, receive treatment recommendations, and make informed decisions that lead to healthier crops and better yields.",
+            "values": {
+                "title": "Our Values",
+                "subtitle": "The principles that guide everything we do",
+                "farmerCentric": {
+                    "title": "Farmer-Centric",
+                    "description": "We put farmers first in everything we design and build."
+                },
+                "accuracy": {
+                    "title": "Accuracy",
+                    "description": "We strive for the highest accuracy in disease detection."
+                },
+                "innovation": {
+                    "title": "Innovation",
+                    "description": "We continuously innovate to serve farmers better."
+                },
+                "accessibility": {
+                    "title": "Accessibility",
+                    "description": "We make advanced technology accessible to all farmers."
+                }
+            },
+            "impact": {
+                "title": "Our Impact",
+                "subtitle": "Making a difference in agriculture",
+                "farmers": "10,000+ Farmers Served",
+                "accuracy": "95% Detection Accuracy",
+                "diseases": "50+ Crop Diseases Detected"
+            },
+            "cta": {
+                "title": "Ready to protect your crops?",
+                "description": "Join thousands of farmers who are already using PlantGuard to detect diseases early and maximize their yields.",
+                "button": "Get Started Free"
+            },
+            "footer": "© PlantGuard. All rights reserved."
+        }
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "welcome": "Welcome back",
+        "overview": "Here's an overview of your farm's status.",
+        "currentWeather": "Current Weather",
+        "loadingWeather": "Loading weather...",
+        "locationError": "Location access denied. Please enable location to see weather.",
+        "noGeolocation": "Geolocation is not supported by your browser.",
+        "fetchError": "Failed to fetch weather data",
+        "quickActions": "Quick Actions",
+        "diseaseDetection": "Disease Detection",
+        "detectionHistory": "Detection History",
+        "governmentSchemes": "Government Schemes",
+        "recentDetections": "Recent Detections",
+        "viewAll": "View All →",
+        "noDetections": "No detections yet",
+        "startDetection": "Start Detection",
+        "analyzeFirst": "Start by analyzing your first crop image.",
+        "windSpeed": "Wind Speed",
+        "humidity": "Humidity",
+        "feelsLike": "Feels Like",
+        "scanCrops": "Scan your crops instantly",
+        "viewPast": "View your past reports",
+        "exploreSchemes": "Explore available schemes"
+    },
+    "diseaseDetection": {
+        "title": "Plant Disease Detection",
+        "subtitle": "Upload an image to identify plant diseases"
+    },
+    "categories": {
+        "allCrops": "All Crops",
+        "horticulture": "Horticulture",
+        "organic": "Organic"
+    },
+    "upload": {
+        "title": "Drop plant image or click to browse",
+        "subtitle": "JPG/PNG only (Max 5MB) - Clear photos work best"
+    },
+    "buttons": {
+        "upload": "Upload",
+        "camera": "Camera",
+        "capture": "Capture Image",
+        "closeCamera": "Close Camera",
+        "remove": "Remove Image"
+    },
+    "detect": {
+        "button": "Detect Disease",
+        "loading": "Analyzing..."
+    },
+    "reports": {
+        "title": "Detection History",
+        "subtitle": "View and manage your past crop disease scans.",
+        "noDetections": "No detections yet",
+        "startAnalysis": "Start by analyzing your first crop image.",
+        "details": "Detection Details"
+    },
+    "schemes": {
+        "title": "Government Schemes",
+        "subtitle": "Explore financial aid and subsidies available for you."
+    },
+    "common": {
+        "noDetections": "No detections yet",
+        "cancel": "Cancel",
+        "save": "Save Changes"
+    },
+    "auth": {
+        "common": {
+            "email": "Email address",
+            "password": "Password",
+            "orContinue": "Or continue with"
+        },
+        "login": {
+            "header": "Sign in",
+            "link": "Don't have an account?",
+            "button": "Sign in",
+            "remember": "Remember me",
+            "forgot": "Forgot password?"
+        },
+        "signup": {
+            "header": "Sign up",
+            "already": "Already have an account?",
+            "button": "Create Account",
+            "fullName": "Full Name",
+            "confirmPassword": "Confirm Password"
+        },
+        "reset": {
+            "header": "Reset Password"
+        }
+    },
+    "profile": {
+        "accountSettings": "Account Settings",
+        "editProfile": "Edit Profile",
+        "editSubtitle": "Update name & password",
+        "signOut": "Sign Out",
+        "defaultUser": "User"
+    },
+    "editprofile": {
+        "title": "Edit Profile",
+        "subtitle": "Update your personal information",
+        "labels": {
+            "fullName": "Full Name",
+            "email": "Email address",
+            "changePassword": "Change Password",
+            "currentPassword": "Current Password",
+            "newPassword": "New Password"
+        },
+        "confirmPassword": "Confirm New Password"
+    }
+}
