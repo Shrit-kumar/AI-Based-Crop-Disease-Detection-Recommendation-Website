@@ -127,23 +127,23 @@ npm run dev
 
 Here are screenshots demonstrating the key features of PlantGuard:
 
-![Landing Page](screenshots\Landing_page.jpg)
-*Home/Landing page with disease detection entry point.*
+![Landing Page](screenshots/Landing_page.jpg)
+*Landing page with disease detection entry point.*
 
-![Authentication Page](screenshots\Authentication_Page.jpg)
-*Home/Landing page with disease detection entry point.*
+![Authentication Page](screenshots/Authentication_Page.jpg)
+*User authentication interface supporting login and account creation.*
 
-![Dashboard Page](screenshots\Dashboard.jpg)
+![Dashboard Page](screenshots/Dashboard.jpg)
 *User dashboard showing history of past detections and reports.*
 
-![Disease Detection Page](screenshots\Disease_Detection_Page.jpg)
+![Disease Detection Page](screenshots/Disease_Detection_Page.jpg)
 *Image upload interface and AI analysis results with disease detection, recommendations, and Google Search links.*
 
-![Govt Schemes Page](screenshots\Govt_Schmes.jpg)
-*Personalized user profile management.*
+![Govt Schemes Page](screenshots/Govt_Schmes.jpg)
+*Provides information on government agricultural schemes and farmer support initiatives.*
 
-![Reports Page](screenshots\Reports_Page.jpg)
-*App features overview page.*
+![Reports Page](screenshots/Reports_Page.jpg)
+*Shows a detailed history of previous disease detections, including results and analysis insights.*
 
 ## 🤝 Contributing
 
